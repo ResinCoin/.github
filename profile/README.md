@@ -5,4 +5,4 @@ Previously, it was just a joke crypto to test some smart contracts. Now everythi
 ResinCoin is not a simple ERC-20 token on Ethereum: it is a different blockchain.<br>
 The native currency of the chain is RESIN.
 
-Our explorer :eyes:: https://explorer.resincoin.ml :trollface: 
+Our explorer :eyes:: https://explorer.resincoin.dev :trollface: 
